@@ -3,7 +3,9 @@
 2. The Person class should have the following attributes:
 
 name: representing the person's name.
+
 age: representing the person's age.
+
 gender: representing the person's gender.
 
 
